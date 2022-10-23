@@ -7,3 +7,12 @@ The project is to design a algorithm and class to figure out the answer from the
 - 如：
     - Duke.Beneviento 32 Jack.Beneviento,Mia.Winters,Lucas.Baker,Ethan.Winters
     - Ethan.Winters 30 Mia.Winters,Zoe.Baker
+## Input example:
+- [input example](https://github.com/yellowbuffalo/friend-finder/blob/main/asset/input.png)
+
+## Output:
+- 輸出一（task 1）：所有人的平均年齡（一行）（四捨五入至整數）
+- 輸出二（task 2）：找出朋友名單中有包含「Chris.Redfield」的所有「Beneviento」家的人，並按照「名字排序（A→Z 升冪排列）」依序一行一行輸出（多行輸出，每行間需要換行）
+
+## Output example:
+- [Output example](https://github.com/yellowbuffalo/friend-finder/blob/main/asset/output.png)
